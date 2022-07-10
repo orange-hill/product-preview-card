@@ -17,7 +17,7 @@ Your users should be able to:
 <br>
 
 
-### Screenshot 
+### <u>Screenshot</u> 
 Desktop
 <br>
 ![](./img/screenshot_desktop.jpg) 

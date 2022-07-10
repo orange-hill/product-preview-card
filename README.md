@@ -18,10 +18,12 @@ Your users should be able to:
 
 
 ### Screenshot 
-- Desktop -
+Desktop
+<br>
 ![](./img/screenshot_desktop.jpg) 
 
-- Mobile -
+Mobile
+<br>
 ![](./img/screenshot_mobile.jpg) 
 
 #### [Live Site](https://orange-hill.github.io/product-preview-card/)
